@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box;
+    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: black;
+    
+  }
+  
+  body::before {
+    content: "";
+     background: DarkSalmon;
+     top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    z-index: -1;
+    }
+  
+  body {
+   position: relative;
+    display: block;
+  }
+  
+  body::after {
+    position: fixed;
+    content: "";
+    background: url(https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80);
+   top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-size: cover;
+    opacity: 0.4;
+    z-index: -1;
+  }
+  
+  .container {
+    width: 650px;
+    margin: 1% auto;
+    font-size: 1.5em;
+    padding: 50px;
+    line-height: 1.3;
+    background: rgba(13, 152, 186, 0.8);
+     border-radius: 20px;
+  }
+  @media (min-width: 320px) {
+    .container {
+      max-width: 280px;
+    }
+  }
+  
+    @media (min-width: 481px) {
+    .container {
+      max-width: 460px;
+    }
+  } 
+  
+   @media (min-width: 769px) {
+    .container {
+      max-width: 720px;
+    }
+  } 
+  
+  @media (min-width: 1025px) {
+    .container {
+      max-width: 1000px;
+    }
+  } 
+  
+  /*
+  320px — 480px: Mobile devices.
+  481px — 768px: iPads, Tablets.
+  769px — 1024px: Small screens, laptops.
+  1025px — 1200px: Desktops, large screens.
+  1201px and more — Extra large screens, TV.
+  
+  .container::before {
+    content: "";
+     background: blue;
+     top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    z-index: 1;
+    opacity: 0.1;
+    } */
+  
+  p {
+    text-align: left;
+    margin: 5px auto;
+  }
+  
+  header {
+    margin-top: 40px;
+  }
+  h1, #description {
+    padding-0: 0px;
+    text-align: center;
+    margin: 5px auto;
+  }
+  
+  #description {
+    font-style: italic;
+    text-shadow: 1px 1px 1px rgba(0, 0, 50, 0.2);
+  }
+  .comment:focus {
+      background-color: yellow;
+    transform: scale(1.1)
+  } 
+  
+  #name, #email, #number, #dropdown, #favorite, #submit {
+    width: 100%;
+    height: 35px;
+    margin-bottom: 5px;
+    opacity: 0.9;
+  }
+  
+  span {
+    font-weight: 500;
+  }
+  #textarea {
+    width: 100%;
+    height: 100px;
+  }
+  
+  #submit {
+    background: green;
+    border: none;
+    border-radius: 20px;
+  }
+  
+  #submit:hover {
+    background: DarkGreen;
+  }
+  
+  footer {
+   text-align: center;
+  }
