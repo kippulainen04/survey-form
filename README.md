@@ -30,7 +30,7 @@ The following content will be covered in this README.md:
 
 ## 🧑‍💻 Learning Objectives
 
-After fulfilling the project, I accquire knowledge to:
+After fulfilling the project, I acquire knowledge to:
 * Build and style static webpages with semantic **HTML** and **CSS**
 * Implement best practices and standards when structuring HTML files using nested elements, indentation, comments, and line breaks
 * Implement the use of **`<input>`tag** with different types as checkbox, radio, text, number and submit & **`<select>`tag** 
