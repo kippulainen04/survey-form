@@ -27,7 +27,7 @@ After fulfilling the project, I accquire knowledge to:
 * Implement the use of **Input tag** with different types as checkbox, radio, text, number and submit & **Select tag**
 * Implement CSS styling via class, id and element selectors using external stylesheets and inline styles.
 * Implement **Bootstrap** styling, **Google font** and **CSS breakpoints**
-* Explain the value of version control and use **Git workflow** to initialize projects, track changes, and host via remote server
+* Use **Git workflow** to initialize projects, track changes, and host via remote server
 * Execute live deployment using **GitHub** Pages
 
 <div id='requirement'/> 
