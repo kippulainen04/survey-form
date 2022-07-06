@@ -18,6 +18,7 @@ The following content will be covered in this repository:
  7. [License](#license)
 
 <div id='learning'/> 
+
 ## 🧑‍💻 Learning Objectives
 
 After fulfilling the project, I accquire knowledge to:
@@ -30,6 +31,7 @@ After fulfilling the project, I accquire knowledge to:
 * Execute live deployment using **GitHub** Pages
 
 <div id='requirement'/> 
+
 ## 📋 Requirements
 
 ** Build an app that is functionally similar to [this](https://survey-form.freecodecamp.rocks)
@@ -53,6 +55,7 @@ After fulfilling the project, I accquire knowledge to:
 16. Inside the form element, you are presented with a button with `id` of submit to `submit` all the inputs
 
 <div id='tools'/>
+
 ## ⚡ Installation & Usage
 
 1. Cloning the project & render on your local browser
@@ -64,6 +67,7 @@ After fulfilling the project, I accquire knowledge to:
 * Then add [this link](https://kippulainen04.github.io/survey-form/) to your internet browser
 
 <div id='author'/>
+
 ## 👥 Author
 * Nio Phan
 
@@ -78,6 +82,7 @@ After fulfilling the project, I accquire knowledge to:
 * [Reference Project](https://survey-form.freecodecamp.rocks/)
 
 <div id='contribution'/>
+
 ## 💭 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -85,6 +90,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to follow [Common Guidlines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) as appropriate.
 
 <div id='license'/>
+
 ## 📝 License
 [MIT](https://choosealicense.com/licenses/mit/)
 
