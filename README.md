@@ -8,7 +8,7 @@ In this repository, the aim is to make a survey form with basic coding languages
 
 ## 🔑 Key Topic
 
-The following content will be covered in this repository:
+The following content will be covered in this README.md:
  1. [Learning Objectives](#learning)
  2. [Requirements](#requirement)
  3. [Installation & Usage](#tools)
