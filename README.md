@@ -34,9 +34,9 @@ After fulfilling the project, I accquire knowledge to:
 
 ## 📋 Requirements
 
-** Build an app that is functionally similar to [this](https://survey-form.freecodecamp.rocks)
+**Build an app that is functionally similar to [this](https://survey-form.freecodecamp.rocks)**
 
-** User Stories: 
+**User Stories:** 
 1. You should have a page title in an `h1` element with an `id` of `title`
 2. You should have a short explanation in a `p` element with an `id` of `description`
 3. You should have a `form` element with an `id` of `survey-form`
