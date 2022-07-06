@@ -24,7 +24,7 @@ The following content will be covered in this repository:
 After fulfilling the project, I accquire knowledge to:
 * Build and style static webpages with semantic **HTML** and **CSS**
 * Implement best practices and standards when structuring HTML files using nested elements, indentation, comments, and line breaks
-* Implement the use of **Input tag** with different types as checkbox, radio, text, number and submit & **Select tag**
+* Implement the use of **`<input>`tag** with different types as checkbox, radio, text, number and submit & **`<select>`tag** 
 * Implement CSS styling via class, id and element selectors using external stylesheets and inline styles.
 * Implement **Bootstrap** styling, **Google font** and **CSS breakpoints**
 * Use **Git workflow** to initialize projects, track changes, and host via remote server
